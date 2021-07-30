@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Picex</string>
+    <string name="preference_file_name">Picex Register</string>
+    <string name="enter_the_passcode">Enter the Passcode</string>
+    <string name="login_page">Login Page</string>
+    <string name="forgot_passcode">Forgot passcode</string>
+    <string name="log_out">Log Out</string>
 </resources>
