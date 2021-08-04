@@ -10,10 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Picex">
         <activity
-            android:name=".HomePage"
+            android:name=".activity.HomePage"
             android:exported="true" />
-        <activity android:name=".LoginPage" />
-        <activity android:name=".MainRegister">
+        <activity android:name=".activity.LoginPage" />
+        <activity android:name=".activity.MainRegister">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
